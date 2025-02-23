@@ -1,0 +1,22 @@
+/* Personnalisation du style de la page */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background-color: #007bff;
+}
+
+footer {
+  background-color: #343a40;
+}
+
+/* Personnalisation des cartes */
+.card {
+  margin-bottom: 20px;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
